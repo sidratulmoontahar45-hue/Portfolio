@@ -243,7 +243,6 @@ const ProjectCard = ({ project, index, onOpenGallery }) => {
 const arrowClass =
   "absolute top-1/2 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-black/60 text-white transition hover:bg-black/90";
 
-// popup with all the photos of a project
 const Gallery = ({ project, onClose }) => {
   const [currentImage, setCurrentImage] = useState(0);
   const lastImage = project.images.length - 1;
