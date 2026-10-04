@@ -140,9 +140,7 @@ const Navbar = () => {
                   className="flex shrink-0 items-center justify-center text-[16px] sm:text-[18px] lg:text-[21px]"
                 >
                   {item.icon}
-                </motion.span>
-
-                {/* name */}
+                </motion.span>               
                 <motion.span
                   initial={false}
                   animate={{
