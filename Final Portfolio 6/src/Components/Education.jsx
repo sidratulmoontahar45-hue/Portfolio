@@ -142,7 +142,7 @@ const Education = () => {
             key={column.title}
             {...fadeIn({ x: column.side === "left" ? -40 : 40, amount: 0.15 })}
           >
-            {/* column title */}
+          
             <motion.div
               {...fadeIn({ y: 20, duration: 0.5 })}
               className="mb-9 flex items-center gap-3"
