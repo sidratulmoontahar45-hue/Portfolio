@@ -21,8 +21,7 @@ const projects = [
     number: "02",
     title: "Groundwater Depletion Prediction",
     subtitle: "Machine Learning Research",
-    description:
-      "Ongoing research using CNN and LSTM models to predict groundwater depletion in rural areas.",
+    description:"Ongoing research using CNN and LSTM models to predict groundwater depletion in rural areas.",
     tags: ["Python", "CNN", "LSTM"],
     status: "ONGOING",
     icon: <FaFlask />,
@@ -47,8 +46,7 @@ const projects = [
     number: "04",
     title: "ATM & Bank Management System",
     subtitle: "Java + MySQL",
-    description:
-      "A completed banking management system implementing accounts and core ATM operations.",
+    description:"A completed banking management system implementing accounts and core ATM operations.",
     tags: ["Java", "MySQL"],
     status: "COMPLETED",
     icon: <FaUniversity />,
@@ -61,8 +59,7 @@ const projects = [
     number: "05",
     title: "Smart Plant Monitoring & Watering System",
     subtitle: "IoT + Embedded System + Custom App",
-    description:
-      "An automated plant monitoring and watering system with real-time monitoring, automatic watering and a custom mobile app for remote control.",
+    description:"An automated plant monitoring and watering system with real-time monitoring, automatic watering and a custom mobile app for remote control.",
     tags: ["IoT", "Arduino", "Sensors", "Mobile App"],
     status: "COMPLETED",
     icon: <FaFlask />,
