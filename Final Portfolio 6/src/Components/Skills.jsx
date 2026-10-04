@@ -20,7 +20,6 @@ const skills = [
   { name: "Problem Solving", percentage: 50, icon: MdLightbulb },
 ];
 
-// size of the progress circle
 const radius = 48;
 const circumference = 2 * Math.PI * radius;
 
@@ -29,7 +28,6 @@ const Skills = () => {
   const [visible, setVisible] = useState(false);
   const [percentages, setPercentages] = useState(skills.map(() => 0));
 
-  // check if the section is on screen
   useEffect(() => {
     const section = sectionRef.current;
 
@@ -45,7 +43,6 @@ const Skills = () => {
     };
   }, []);
 
-  // count the numbers up when the section is visible, reset when it is not
   useEffect(() => {
     if (!visible) {
       setPercentages(skills.map(() => 0));
@@ -78,7 +75,6 @@ const Skills = () => {
       id="skills"
       className="relative w-full min-h-screen bg-white px-6 sm:px-10 md:px-14 lg:px-16 pt-32 pb-24 overflow-hidden"
     >
-      {/* background glows */}
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
@@ -114,7 +110,7 @@ const Skills = () => {
                 className={cardClass + " min-h-[190px] p-4"}
               >
                 <div className="flex flex-col items-center justify-center">
-                  {/* progress circle */}
+              
                   <motion.div
                     {...fadeIn({ scale: 0.85, duration: 0.5, delay: index * 0.05 + 0.15 })}
                     className="relative w-[125px] h-[125px]"
@@ -142,7 +138,7 @@ const Skills = () => {
                       />
                     </svg>
 
-                    {/* icon and percentage in the middle */}
+                    
                     <div className="absolute inset-0 flex flex-col items-center justify-center">
                       <Icon className="text-4xl text-gray-900 mb-1" aria-hidden="true" />
                       <span className="text-lg font-bold text-gray-900">{percentages[index]}%</span>
