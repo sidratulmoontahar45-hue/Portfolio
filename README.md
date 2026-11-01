@@ -46,7 +46,7 @@ The main objective of this portfolio is to create a professional online platform
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
