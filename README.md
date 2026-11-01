@@ -33,16 +33,16 @@ The main objective of this portfolio is to create a professional online platform
 
 ## Features
 
-- 🏠 Modern Home Section
-- 👨‍💻 About Me Section
-- 🎓 Education Section
-- 🚀 Projects Showcase
-- 🛠️ Skills & Technologies
-- 📱 Responsive Design
-- ✉️ Contact Section
-- 🎨 Modern UI/UX
-- ⚡ Smooth Page Navigation
-- ✨ Animated Components
+-  Modern Home Section
+-  About Me Section
+-  Education Section
+-  Projects Showcase
+-  Skills & Technologies
+-  Responsive Design
+-  Contact Section
+-  Modern UI/UX
+-  Smooth Page Navigation
+-  Animated Components
 
 ---
 
