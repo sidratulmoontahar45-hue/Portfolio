@@ -12,7 +12,7 @@ The website is built with a responsive design and focuses on providing a smooth 
 
 ##  About Me
 
-Hello! I'm **[Your Name]**, a passionate developer interested in creating modern, responsive, and user-friendly applications.
+Hello! I'm   Sidratul a passionate developer interested in creating modern, responsive and user-friendly applications.
 
 I enjoy learning new technologies, building projects, and improving my problem-solving and development skills.
 
