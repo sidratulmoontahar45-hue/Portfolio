@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project is my **personal portfolio website**, designed to showcase my skills, projects, education, experience, and interests in a clean and modern interface.
 
@@ -10,7 +10,7 @@ The website is built with a responsive design and focuses on providing a smooth 
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hello! I'm **[Your Name]**, a passionate developer interested in creating modern, responsive, and user-friendly applications.
 
@@ -18,7 +18,7 @@ I enjoy learning new technologies, building projects, and improving my problem-s
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this portfolio is to create a professional online platform where I can:
 
@@ -31,7 +31,7 @@ The main objective of this portfolio is to create a professional online platform
 
 ---
 
-## ✨ Features
+## Features
 
 - 🏠 Modern Home Section
 - 👨‍💻 About Me Section
@@ -52,15 +52,15 @@ The main objective of this portfolio is to create a professional online platform
 
 | Technology | Purpose |
 |------------|---------|
-| ⚛️ React.js | Frontend Development |
-| 🎨 CSS | Styling |
-| 🟨 JavaScript | Functionality |
-| 🎬 Framer Motion | Animations |
-| 🔗 React Icons | UI Icons |
+| React.js | Frontend Development |
+| CSS | Styling |
+| JavaScript | Functionality |
+| Framer Motion | Animations |
+| React Icons | UI Icons |
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Portfolio/
